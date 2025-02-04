@@ -51,10 +51,10 @@ This is the entry point of the program. It coordinates method calls and manages 
 # Repository Structure
 
 Array_and_ArrayList/  
-├── UserInput.java        # Handles User Input
+├── UserInput.java            # Handles User Input
 
-├── ArrayFunctions.java  # Contains logic for array operations
+├── ArrayFunctions.java       # Contains logic for array operations
 
-├── Main.java   # Runs the program
+├── Main.java                 # Runs the program
 
-└── README.md        # Program documentation
+└── README.md                 # Program documentation
