@@ -37,3 +37,24 @@ This is the entry point of the program. It coordinates method calls and manages 
 - Invokes functions from ArrayFunctions to process data.
 
 - Displays results to the console in a user-friendly format.
+
+# Usage Instructions
+
+1. Clone the repositary
+2. Compile the program: javac Main.java ArrayFunctions.java UserInput.java
+3. Run the program: java Main
+4. Follow the Menu:
+   - Enter the number of elements in the array
+   - Enter the elements of the array
+   - View output after the program has run
+
+# Repository Structure
+
+Array_and_ArrayList/  
+├── UserInput.java        # Handles User Input
+
+├── ArrayFunctions.java  # Contains logic for array operations
+
+├── Main.java   # Runs the program
+
+└── README.md        # Program documentation
